@@ -1,10 +1,7 @@
-##🏙️ Real Estate Valuation, Risk & Forecasting Framework (UAE-Focused)
-
-📘 GitHub Notebook:
-Real Estate Valuation, Risk & Forecasting Framework
+#🏙️ Real Estate Valuation, Risk & Forecasting Framework (UAE-Focused)
 
 🚀 Run on Google Colab:
-Open in Colab
+Open in Colab:- https://colab.research.google.com/drive/13BAUWNI6SR5hO9i49_1AJgJnLhL4IT8A#scrollTo=f5733339
 
 📌 Project Overview
 
@@ -70,7 +67,8 @@ Historical real estate pricing data
 
 Property-level and market-level features
 
-Time-based data aligned for forecasting
+Time-based data aligned for forecasting.
+
 
 2️⃣ Exploratory Data Analysis (EDA)
 
@@ -82,7 +80,8 @@ Correlation analysis between valuation drivers
 
 Volatility & risk visualization
 
-Heatmaps for feature relationships
+Heatmaps for feature relationships.
+
 
 3️⃣ Feature Engineering
 
@@ -100,7 +99,8 @@ Volatility measures
 
 Demand-supply proxies
 
-Time-based seasonal features
+Time-based seasonal features.
+
 
 4️⃣ Statistical & Risk Analysis
 
@@ -110,7 +110,8 @@ Autocorrelation & lag analysis
 
 Feature correlation & multicollinearity checks
 
-Risk exposure identification
+Risk exposure identification.
+
 
 5️⃣ Data Preprocessing
 
@@ -120,9 +121,12 @@ Feature scaling & normalization
 
 Time-series aware train/test split
 
-Data reshaping for ML & forecasting models
+Data reshaping for ML & forecasting models.
 
-🤖 Models Implemented
+
+🤖 Models Implemented:-
+
+
 🔹 1. Linear & Regularized Regression (Baseline Valuation)
 
 Ridge / Lasso Regression
@@ -191,7 +195,9 @@ Trend classification:
 
 Scenario-aware insights for advisory use
 
-▶️ How to Run
+▶️ How to Run:-
+
+
 Option 1: Google Colab (Recommended)
 
 Open the notebook
@@ -216,7 +222,9 @@ API deployment for valuation automation
 
 Onkar Chougule
 
-🎓 Engineering | AI & ML | Risk & Data Analytics
-📊 Real Estate Valuation • Forecasting • Risk Advisory
-🌍 Aspiring Consultant – UAE / DIFC
+🎓 Engineering | AI & ML | Risk & Data Analytics.
+
+📊 Real Estate Valuation • Forecasting • Risk Advisory.
+
+🌍 Aspiring Consultant – UAE / DIFC.
 
