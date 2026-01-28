@@ -1,4 +1,4 @@
-# 🏙️ Real Estate Valuation, Risk & Forecasting Framework (UAE-Focused)
+# 🏙️ Real Estate Valuation, Risk & Forecasting Framework 
 
 ## 📘 GitHub Notebook
 [Real Estate Valuation, Risk & Forecasting Framework]() 
@@ -12,7 +12,7 @@ This project presents a comprehensive, end-to-end real estate valuation and risk
 
 The framework integrates statistical analysis, machine learning models, macroeconomic risk indicators, and forecasting techniques to evaluate property prices, identify risk drivers, and forecast future market trends.
 
-It follows a consulting-grade analytical pipeline, making it suitable for Risk Advisory, Valuation, and Data Analytics roles, particularly aligned with UAE & GCC real estate markets.
+It follows a consulting-grade analytical pipeline, making it suitable for Risk Advisory, Valuation, and Data Analytics roles.
 
 ## 🎯 Objectives
 
@@ -137,10 +137,10 @@ SHAP (SHapley Additive Explanations) used to:
 
 ## 🚀 Future Enhancements
 
-- Integration of macroeconomic indicators (GDP, inflation, rates)
-- UAE-specific real estate datasets (Dubai, Abu Dhabi)
+- Integration of macroeconomic indicators 
+- Area-specific real estate datasets (Dubai, Abu Dhabi)
 - Stress-testing & downside risk simulation
-- Interactive dashboards (Power BI / Streamlit)
+- Interactive dashboards (Streamlit)
 - API deployment for valuation automation
 
 ## 👤 Author
