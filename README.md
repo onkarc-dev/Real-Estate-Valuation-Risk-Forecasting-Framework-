@@ -4,7 +4,7 @@
 [Real Estate Valuation, Risk & Forecasting Framework]() 
 
 ## 🚀 Run on Google Colab
-[![Open in Colab](https://colab.research.google.com/drive/13BAUWNI6SR5hO9i49_1AJgJnLhL4IT8A#scrollTo=f5733339)(https://colab.research.google.com/drive/13BAUWNI6SR5hO9i49_1AJgJnLhL4IT8A#scrollTo=f5733339)]
+[![Open in Colab][(https://colab.research.google.com/drive/13BAUWNI6SR5hO9i49_1AJgJnLhL4IT8A?usp=sharing)]
 
 ## 📌 Project Overview
 
